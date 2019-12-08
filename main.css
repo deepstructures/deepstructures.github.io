@@ -1,0 +1,200 @@
+body {
+	font-family: 'Assistant', sans-serif;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #212121;
+	max-width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: #9400D3;
+}    
+
+h2 {
+	color: #4b754a;
+	font-size: 26px;
+	font-weight: bold;
+	padding-top: .5em;
+}
+
+h3 {
+	color: #335C67;
+	font-size: 18px;
+	padding-top: .5em;
+}
+
+.secondary {
+	color: #757575;
+}
+
+a.secondary,
+a.secondary:focus,
+a.secondary:active,
+a.secondary.active {
+	color: #757575;
+	text-decoration: underline;
+}
+
+a.secondary:hover {
+	color: #A30015;
+	text-decoration: underline;
+}
+
+.anchor {
+	padding-top: 50px;
+	margin-top: -50px;
+}
+
+
+strong,b {
+	color: #9400D3;
+	font-weight: bold;
+}
+
+hr {
+	border-top: 1px dashed gray;
+	margin-top:25px; 
+	margin-bottom:25px;
+	width:1000px; 
+	margin-left:-50px
+}
+
+a {
+	color: #9400D3;
+	text-decoration: none;
+}
+
+.table {
+	color: #FFFFFF;
+	cellspacing: 20px;
+}
+
+/* Borderless table */
+
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+	color: #FFFFFF;
+	background-color: #E3170A;
+	border: none;
+}
+
+
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th {
+	border: none;
+}
+
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th {
+	border: none;
+}
+
+/* Other styles */
+
+.obfuscate span {
+	display: none;
+}
+
+.social {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Boxes */
+
+.jumbotron {
+	margin-bottom: 0px;
+	background-position: 0% 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+
+div.person {
+	background-color: rgba(135, 172, 185,0.25); /* #87ACB9 */
+	border: none;
+	border-radius: 5px;
+	padding: 5px;
+	margin:  5px;
+	min-height: 120px;
+}
+
+.portrait {
+	float:left;
+	height: 100px;
+	margin-right: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border-radius: 5px;
+}
+
+a.person {
+	color: #E3170A;
+	font-weight: bold;
+}
+
+a.person:hover {
+	color: #A30015;
+	font-weight: bold;
+}
+
+
+div#banner {
+	background-image: url(../img/Kroyersplads_MartinHeiberg-1600px.jpg);
+	background-position: center;
+}
+
+.bannertxt {
+	color: #FFFFFF;
+	background-color: rgba(27, 65, 78,0.70); /* 1B414E */
+	line-height: 1.8em;
+	padding: 0.1em;
+}
+
+/* Styling for program */
+
+.pp { /* Program person */
+	color: #9400D3;
+	font-weight: bold;
+}
+
+.ps { /* Program session title */
+	color: #335C67;
+	font-weight: bold;
+}
+
+.pt { /* Program talk title */
+	font-style: italic;
+}
+
+.pc { /* Program chair */
+	font-style: italic;
+}
+
+.pbs { /* Program break secondary (for time) (coffee, lunch, dinner) */
+	background-color: rgba(135, 172, 185, 0.10); /* #87ACB9 */
+}
+
+.pb { /* Program break text (coffee, lunch, dinner) */
+	color: #335C67;
+	font-weight: bold;
+	background-color: rgba(135, 172, 185, 0.10); /* #87ACB9 */
+}
+
+.hl {
+	background-color: rgba(135, 172, 185, 0.25); /* #87ACB9 */
+}
+
+.pauthor { /* Poster author */
+	color: #335C67;
+}
+
+.ptitle { /* Poster title */
+	font-style: italic;
+}

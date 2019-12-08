@@ -1,0 +1,30 @@
+Thursday
+08:15 - 08:30	Samuel Kaski & Mark Girolami, Opening
+08:30 - 09:30	David Duvenaud, Neural Stochastic Differential Equations for Irregularly-Sampled Time Series
+09:30 - 09:45	George Papamakarios, Neural Spline Flows
+09:45 - 10:15	Coffee
+10:15 - 11:00	Carl Henrik Ek, Learning Alignments and Monotonic Gaussian Process Flows
+11:00 - 11:45	Neill Campbell, Composite Uncertainty in Deep Gaussian Processes
+12:00 - 13:00	Lunch
+13:00 - 13:45	Simo Särkkä, Hilbert-Space Reduced-Rank Methods for Deep Gaussian Processes
+13:45 - 14:30	Arno Solin, The unholy alliance: Encoding probabilistic priors into deep vision models
+14:30 - 15:00	Coffee
+15:00 - 15:45	Mauricio Alvarez, Polynomial Latent Force Models
+15:45 - 16:30	Aki Vehtari, Bayesian Workflows
+16:30 - 17:00	Markus Heinonen, Differential deep learning
+17:00 - 18:00	Poster session
+19:00	Dinner
+
+Friday
+08:30 - 09:15	James Hensman, TBA
+09:15 - 10:00	Niklas Wahlström, Deep Learning Applied to System Identification
+10:00 - 10:30	Coffee
+10:30 - 11:15	Andreas Damianou, From GP to deep learning and from deep learning to GP
+11:15 - 12:00	Ole Winther, Flows for quantized data - auto regressive models and variational interpretation
+12 - 13	Lunch
+13:00 - 13:45	Sören Hauberg, Only Bayes Should Learn a Manifold
+13:45 - 14:30	Jaakko Lehtinen, TBA
+14:30 - 15:00	Coffee
+15:00 - 15:20	Tim Rudner, Inter-domain Deep Gaussian Processes with RKHS Fourier Features
+15:20 - 15:40	ST John, TBA
+15:40 - 16:00	Takuo Matsubara, Quadrature of neural networks based on theridgelet transform, and the possibility of the extension
